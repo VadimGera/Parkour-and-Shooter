@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1902
     height: 971
   m_ShowMode: 4
-  m_Title: Hierarchy
+  m_Title: Scene
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 114
+  controlID: 21
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -223,7 +223,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 115
+  controlID: 109
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -248,7 +248,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 116
+  controlID: 110
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -383,14 +383,14 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/Scenes
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\vadim\UnityProject\Shooter and Parkour
+  m_LastProjectPath: C:\Users\vadim\Documents\GitHub\Parkour-and-Shooter
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 65}
-    m_SelectedIDs: 0c630000
-    m_LastClickedID: 25356
-    m_ExpandedIDs: 000000007062000000ca9a3bffffff7f
+    m_SelectedIDs: e8620000
+    m_LastClickedID: 25320
+    m_ExpandedIDs: 00000000de62000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -418,7 +418,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000070620000
+    m_ExpandedIDs: 00000000de620000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -445,7 +445,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -546,9 +546,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: 1e760000
       m_LastClickedID: 0
-      m_ExpandedIDs: 60f9ffff14fbffff
+      m_ExpandedIDs: 8ceaffff12fbffffb45f0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -830,9 +830,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 58.445698, y: -152.83598, z: 541.47833}
+    m_Target: {x: -206.76183, y: -230.13269, z: 477.45163}
     speed: 2
-    m_Value: {x: 58.445698, y: -152.83598, z: 541.47833}
+    m_Value: {x: -206.76183, y: -230.13269, z: 477.45163}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -871,7 +871,7 @@ MonoBehaviour:
       m_Fade:
         m_Target: 0
         speed: 2
-        m_Value: 1
+        m_Value: 0
       m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
       m_Pivot: {x: 0, y: 0, z: 0}
       m_Size: {x: 1, y: 1}
@@ -879,9 +879,9 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.14216602, y: -0.046136368, z: 0.0066857636, w: -0.98878527}
+    m_Target: {x: -0.20301098, y: 0.19807518, z: -0.041935, w: -0.95805854}
     speed: 2
-    m_Value: {x: -0.14365323, y: -0.04464158, z: 0.0065392265, w: -0.9885992}
+    m_Value: {x: -0.20293954, y: 0.19950388, z: -0.04223774, w: -0.9577212}
   m_Size:
     m_Target: 295.76205
     speed: 2
@@ -903,7 +903,7 @@ MonoBehaviour:
     m_FarClip: 10000
     m_DynamicClip: 1
     m_OcclusionCulling: 0
-  m_LastSceneViewRotation: {x: 0.12846851, y: -0.7030979, z: 0.13139245, w: 0.6870111}
+  m_LastSceneViewRotation: {x: 0.055079475, y: -0.05851501, z: -0.0031920539, w: -0.99680185}
   m_LastSceneViewOrtho: 0
   m_ReplacementShader: {fileID: 0}
   m_ReplacementString: 
@@ -971,7 +971,7 @@ MonoBehaviour:
     m_HSlider: 0
     m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 1
+    m_EnableMouseInput: 0
     m_EnableSliderZoomHorizontal: 0
     m_EnableSliderZoomVertical: 0
     m_UniformScale: 1
