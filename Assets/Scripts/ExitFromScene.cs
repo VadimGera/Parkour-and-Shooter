@@ -7,13 +7,15 @@ using UnityEngine.SceneManagement;
 
 public class ExitFromScene : MonoBehaviour
 {
+
+    [SerializeField] private string _menuSceneName;
     
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Q))
+        if (Input.GetKeyDown(KeyCode.Escape))
         {
-            Application.Quit();
-            
+            SceneManager.LoadSceneAsync(_menuSceneName);
+
         }
     }
 }
