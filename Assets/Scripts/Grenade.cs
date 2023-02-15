@@ -1,6 +1,5 @@
 ﻿using System;
-using Cinemachine;
-using UnityEditor.Build.Content;
+using System.Collections.Generic;
 using UnityEngine;
 
 namespace DefaultNamespace

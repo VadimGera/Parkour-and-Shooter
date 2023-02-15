@@ -13,7 +13,7 @@ public class ExitFromScene : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.Q))
         {
             Application.Quit();
-            Debug.Log("выход" );
+            
         }
     }
 }
