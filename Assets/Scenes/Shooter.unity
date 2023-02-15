@@ -11987,7 +11987,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7f06c26f714e49be84510cf847f8f500, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  throwForce: 50
+  throwForce: 30
   grenadePrefab: {fileID: 1415556611663978, guid: 216ec6e5fef3e254d86b21071e614d66, type: 3}
 --- !u!1 &1779344130
 GameObject:
